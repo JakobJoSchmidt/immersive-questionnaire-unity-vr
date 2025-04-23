@@ -45,3 +45,36 @@ Introduction text;
 Closing text;
 Question;LabelLeft;LabelRight;
 ...
+
+## Inspector Options Breakdown
+
+### Data Loading & Storage
+- **Questionnaire Data Path**: Path to your `.csv` file containing the questionnaire.
+- **Output Data Storage Path**: Directory where responses should be saved.
+- **Output Data Name**: Filename for the response data.
+- **Subject Name**: Identifier for the participant.
+- **Subject Code**: Custom participant code.
+
+### Output Options
+- **Store Bipolar Answer Value**: Save answers as bipolar numeric values.
+- **Store Question Text**: Include original question text in the output.
+- **Output Editing Time**: Log how long participants take to edit each question.
+
+### Preferences
+- **No Of Questions On Display**: Number of questions shown simultaneously.
+- **Size Of Likert Scale**: Size of the rating scale (e.g., 5-point, 7-point).
+- **Add Numeric Label**: Add numeric labels to the Likert scale.
+- **Bipolar Numeric Label**: Use bipolar labels (e.g., -3 to +3).
+- **One Question Text Only**: Display only one instance of the question text.
+- **Use Fully Verbal Scale**: Use full-text labels for scale points.
+- **Randomised Invertation**: Randomly invert question polarity.
+- **Inversion Probability**: Set the probability (0–1) of inverting a question.
+
+### Unity Component Overview
+![Unity Object](demo_img/unity_object.png)
+
+### Options with Labels
+![Labeled Options](demo_img/labeled_options.png)
+
+### Options without Labels
+![Unlabeled Options](demo_img/unlabeld_options.png)

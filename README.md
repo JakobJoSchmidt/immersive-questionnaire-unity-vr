@@ -81,5 +81,8 @@ The examples shown above illustrate two possible configurations of the questionn
 |--|--|
 | <img src="demo_img/labeled_options.png" width="500" alt="Labeled Options"> | <img src="demo_img/unlabeld_options.png" width="500" alt="Unlabeled Options"> |
 
-[![Demo 1](demo_img/demo_1_thumb.png)](demo_vids/demo_1.mp4)
-[![Demo 2](demo_img/demo_2_thumb.png)](demo_vids/demo_2.mp4)
+![Demo 1](demo_img/demo_1_thumb.png)  
+[▶️ Watch Demo 1](demo_vids/demo_1.mp4)
+
+![Demo 2](demo_img/demo_2_thumb.png)  
+[▶️ Watch Demo 2](demo_vids/demo_2.mp4)

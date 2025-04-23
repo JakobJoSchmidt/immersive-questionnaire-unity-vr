@@ -46,7 +46,7 @@ The examples shown above illustrate two possible configurations of the questionn
       <a href="demo_vids/demo_2.mp4">📥 Download Demo Video 1</a>
     </td>
     <td align="center">
-      <img src="demo_img/demo_vid_1.png" width="534" alt="Demo 2 Thumbnail"><br>
+      <img src="demo_img/demo_vid_1.png" width="533" alt="Demo 2 Thumbnail"><br>
       <a href="demo_vids/demo_1.mp4">📥 Download Demo Video 2</a>
     </td>
   </tr>

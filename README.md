@@ -45,6 +45,7 @@ Introduction text;
 Closing text;
 Question;LabelLeft;LabelRight;
 ...
+```
 
 ## Inspector Options Breakdown
 

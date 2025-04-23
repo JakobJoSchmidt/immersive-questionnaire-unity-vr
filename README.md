@@ -4,8 +4,6 @@
 
 > This project was developed as part of my Bachelor's thesis in Computer Science.
 
----
-
 ## Features
 
 - **Built-in Questionnaires**  
@@ -14,7 +12,7 @@
   - **UEQ** – User Experience Questionnaire
 
 - **Custom Questionnaire Support**  
-  Easily import your own questionnaires in **CSV format**.
+  Easily import your own questionnaires in CSV format.
 
 - **Highly Configurable**  
   Customize the visual presentation, layout, and data export format.
@@ -25,23 +23,22 @@
 - **Research-Ready**  
   Designed for researchers and developers conducting user studies in VR.
 
----
 
 ## Getting Started
 
-1. Clone or download this repository.
-2. Open the project in Unity (recommended version: [insert Unity version used]).
-3. Import your own questionnaire (CSV format) or use the included IPQ/UEQ.
-4. Enter Play Mode in VR and start collecting data.
-5. Export your results for further analysis.
-
----
+1.	Clone or download this repository.
+2.	Add the folder to your Unity project.
+3.	Place the Questionnaire object into your VR scene.
+4.	Import your own questionnaire in CSV format or use the included IPQ/UEQ.
+5.	Enter Play Mode in VR and start collecting responses.
+6.	Export the results for further analysis.
 
 ## Questionnaire Format
 
-To use a custom questionnaire, provide a `.csv` file in the following structure:
+To use a custom questionnaire, provide a `.csv` file using semicolons (`;`) as separators, with the following structure:
 
 ```csv
-Question,LabelLeft,LabelRight
-"I felt present in the virtual environment",Strongly disagree,Strongly agree
+Introduction text;
+Closing text;
+Question;LabelLeft;LabelRight;
 ...

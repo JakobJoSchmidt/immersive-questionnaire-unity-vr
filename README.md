@@ -47,7 +47,7 @@ Question;LabelLeft;LabelRight;
 ...
 ```
 
-## Inspector Options Breakdown
+## Overview of the Component Configuration in the Unity Inspector
 
 ### Data Loading & Storage
 - **Questionnaire Data Path**: Path to your `.csv` file containing the questionnaire.
@@ -72,10 +72,14 @@ Question;LabelLeft;LabelRight;
 - **Inversion Probability**: Set the probability (0–1) of inverting a question.
 
 ### Unity Component Overview
-![Unity Object](demo_img/unity_object.png)
+<img src="demo_img/unity_object.png" width="800" alt="Unity Object">
 
-### Options with Labels
-![Labeled Options](demo_img/labeled_options.png)
+## UI Preview
+The examples shown above illustrate two possible configurations of the questionnaire as it appears in VR. The user interface is highly configurable via the Unity Inspector, allowing precise control over elements such as the number of visible questions, scale layout, and labeling. This flexibility enables seamless adaptation to a wide range of experimental designs and user experience requirements.
 
-### Options without Labels
-![Unlabeled Options](demo_img/unlabeld_options.png)
+|  |  |
+|--|--|
+| <img src="demo_img/labeled_options.png" width="500" alt="Labeled Options"> | <img src="demo_img/unlabeld_options.png" width="500" alt="Unlabeled Options"> |
+
+[![Demo 1](demo_img/demo_1_thumb.png)](demo_vids/demo_1.mp4)
+[![Demo 2](demo_img/demo_2_thumb.png)](demo_vids/demo_2.mp4)

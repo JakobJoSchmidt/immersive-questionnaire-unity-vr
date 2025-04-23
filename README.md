@@ -36,6 +36,22 @@
 6.	Enter Play Mode in VR and start collecting responses.
 7.	Export the results for further analysis.
 
+## UI Preview
+The examples shown above illustrate two possible configurations of the questionnaire as it appears in VR. The user interface is highly configurable via the Unity Inspector, allowing precise control over elements such as the number of visible questions, scale layout, and labeling. This flexibility enables seamless adaptation to a wide range of experimental designs and user experience requirements.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="demo_img/demo_vid_2.png" width="500" alt="Demo 1 Thumbnail"><br>
+      <a href="demo_vids/demo_2.mp4">📥 Download Demo Video 1</a>
+    </td>
+    <td align="center">
+      <img src="demo_img/demo_vid_1.png" width="500" alt="Demo 2 Thumbnail"><br>
+      <a href="demo_vids/demo_1.mp4">📥 Download Demo Video 2</a>
+    </td>
+  </tr>
+</table>
+
 ## Questionnaire Format
 
 To use a custom questionnaire, provide a `.csv` file using semicolons (`;`) as separators, with the following structure:
@@ -71,18 +87,6 @@ Question;LabelLeft;LabelRight;
 - **Randomised Invertation**: Randomly invert question polarity.
 - **Inversion Probability**: Set the probability (0–1) of inverting a question.
 
-### Unity Component Overview
-<img src="demo_img/unity_object.png" width="800" alt="Unity Object">
-
-## UI Preview
-The examples shown above illustrate two possible configurations of the questionnaire as it appears in VR. The user interface is highly configurable via the Unity Inspector, allowing precise control over elements such as the number of visible questions, scale layout, and labeling. This flexibility enables seamless adaptation to a wide range of experimental designs and user experience requirements.
-
-<p>
-  <img src="demo_img/demo_vid_1.png" width="300" alt="Demo 1 Thumbnail"><br>
-  <a href="demo_vids/demo_1.mp4">▶️ Watch Demo 1</a>
-</p>
-
-<p>
-  <img src="demo_img/demo_vid_2.png" width="300" alt="Demo 2 Thumbnail"><br>
-  <a href="demo_vids/demo_2.mp4">▶️ Watch Demo 2</a>
-</p>
+<div align="">
+  <img src="demo_img/unity_object.png" width="750" alt="Unity Object">
+</div>

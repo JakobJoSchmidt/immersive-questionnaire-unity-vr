@@ -5,8 +5,6 @@ using System.IO;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-
-// Alias Unity's Debug to avoid conflicts with System.Diagnostics
 using Debug = UnityEngine.Debug;
 
 /// <summary>

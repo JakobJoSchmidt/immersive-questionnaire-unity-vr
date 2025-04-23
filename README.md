@@ -77,12 +77,12 @@ Question;LabelLeft;LabelRight;
 ## UI Preview
 The examples shown above illustrate two possible configurations of the questionnaire as it appears in VR. The user interface is highly configurable via the Unity Inspector, allowing precise control over elements such as the number of visible questions, scale layout, and labeling. This flexibility enables seamless adaptation to a wide range of experimental designs and user experience requirements.
 
-|  |  |
-|--|--|
-| <img src="demo_img/labeled_options.png" width="500" alt="Labeled Options"> | <img src="demo_img/unlabeld_options.png" width="500" alt="Unlabeled Options"> |
+<p>
+  <img src="demo_img/demo_vid_1.png" width="300" alt="Demo 1 Thumbnail"><br>
+  <a href="demo_vids/demo_1.mp4">▶️ Watch Demo 1</a>
+</p>
 
-![Demo 1](demo_img/demo_1_thumb.png)  
-[▶️ Watch Demo 1](demo_vids/demo_1.mp4)
-
-![Demo 2](demo_img/demo_2_thumb.png)  
-[▶️ Watch Demo 2](demo_vids/demo_2.mp4)
+<p>
+  <img src="demo_img/demo_vid_2.png" width="300" alt="Demo 2 Thumbnail"><br>
+  <a href="demo_vids/demo_2.mp4">▶️ Watch Demo 2</a>
+</p>

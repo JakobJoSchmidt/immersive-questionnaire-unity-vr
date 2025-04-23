@@ -26,12 +26,15 @@
 
 ## Getting Started
 
-1.	Clone or download this repository.
-2.	Add the folder to your Unity project.
-3.	Place the Questionnaire object into your VR scene.
-4.	Import your own questionnaire in CSV format or use the included IPQ/UEQ.
-5.	Enter Play Mode in VR and start collecting responses.
-6.	Export the results for further analysis.
+Getting Started
+	1.	Clone or download this repository.
+	2.	Add the folder to your Unity project.
+	3.	Place the Questionnaire object into your VR scene.
+	4.	Use the sliders and properties in the Unity Inspector to customize the component to your needs
+(e.g., number of questions displayed simultaneously, scale size, layout).
+	5.	Import your own questionnaire in CSV format or use the included IPQ/UEQ.
+	6.	Enter Play Mode in VR and start collecting responses.
+	7.	Export the results for further analysis.
 
 ## Questionnaire Format
 

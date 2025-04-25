@@ -23,19 +23,6 @@
 - **Research-Ready**  
   Designed for researchers and developers conducting user studies in VR.
 
-
-## Getting Started
-
-
-1.	Clone or download this repository.
-2.	Add the folder to your Unity project.
-3.	Place the Questionnaire object into your VR scene.
-4.	Use the sliders and properties in the Unity Inspector to customize the component to your needs
-(e.g., number of questions displayed simultaneously, scale size, layout).
-5.	Import your own questionnaire in CSV format or use the included IPQ/UEQ.
-6.	Enter Play Mode in VR and start collecting responses.
-7.	Export the results for further analysis.
-
 ## UI Preview
 The examples shown above illustrate two possible configurations of the questionnaire as it appears in VR. The user interface is highly configurable via the Unity Inspector, allowing precise control over elements such as the number of visible questions, scale layout, and labeling. This flexibility enables seamless adaptation to a wide range of experimental designs and user experience requirements.
 
@@ -51,6 +38,19 @@ The examples shown above illustrate two possible configurations of the questionn
     </td>
   </tr>
 </table>
+
+
+## Getting Started
+
+
+1.	Clone or download this repository.
+2.	Add the folder to your Unity project.
+3.	Place the Questionnaire object into your VR scene.
+4.	Use the sliders and properties in the Unity Inspector to customize the component to your needs
+(e.g., number of questions displayed simultaneously, scale size, layout).
+5.	Import your own questionnaire in CSV format or use the included IPQ/UEQ.
+6.	Enter Play Mode in VR and start collecting responses.
+7.	Export the results for further analysis.
 
 ## Questionnaire Format
 
